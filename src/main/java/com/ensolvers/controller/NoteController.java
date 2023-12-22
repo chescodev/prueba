@@ -73,6 +73,7 @@ public class NoteController {
         return noteRepository.findByArchivedFalse();
     }
 
+    
     @GetMapping("/archived")
     public List<Note> getArchivedNotes() {
         return noteRepository.findByArchivedTrue();

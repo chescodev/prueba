@@ -10,7 +10,7 @@ Make sure you have the following tools installed on your system:
 
 ## Installation
 1. Clone this repository: `https://github.com/ensolvers-github-challenges/StefanoSomontesMarin-92533e.git`
-2. Navigate to the project directory: `cd ENSOLVERS`
+2. Navigate to the project directory: `cd StefanoSomontesMarin-92533e` 
 3. Run the start script: `./start.sh`
 
 ## Additional Configuration
